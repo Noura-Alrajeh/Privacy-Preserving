@@ -1,4 +1,4 @@
-## 🚀 Project Overviews
+#Project Overviews
 
 ### 1. Data Privacy Notebook (`DataPrivacy1_Noura.ipynb`)
 This notebook demonstrates a pipeline for applying and comparing three core privacy-preserving techniques on the UCI Adult census dataset (predicting whether an individual’s income exceeds \$50K):
